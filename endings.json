@@ -1,0 +1,39 @@
+{
+    "lowPrivacy": {
+      "title": "Identity Crisis!",
+      "message": "Your lack of privacy led to identity theft. Start over and protect your data!"
+    },
+    "highPrivacy": {
+      "title": "Loner Alert!",
+      "message": "You've become a recluse, avoiding all online interactions. Life's more fun with friends!"
+    },
+    "lowSecurity": {
+      "title": "Digital Disaster!",
+      "message": "Your device is a malware playground. Learn to secure yourself online!"
+    },
+    "highSecurity": {
+      "title": "Fortress of Solitude!",
+      "message": "Your security is top-notch, but you're missing out on some fun features. Loosen up a bit!"
+    },
+    "lowReputation": {
+      "title": "Social Ghost!",
+      "message": "No one knows you exist online. Try to be a bit more social!"
+    },
+    "highReputation": {
+      "title": "Influencer Overload!",
+      "message": "You're an online sensation, but fame comes at a price. Balance your life!"
+    },
+    "lowFinance": {
+      "title": "Bankrupt!",
+      "message": "You've fallen for too many scams and spent all your money. Learn to budget!"
+    },
+    "highFinance": {
+      "title": "Cyber Tycoon!",
+      "message": "You're rolling in digital dough! But remember, money isn't everything."
+    },
+    "balanced": {
+      "title": "Internet Pro!",
+      "message": "You've mastered the art of online safety! Enjoy the internet responsibly!"
+    }
+  }
+  

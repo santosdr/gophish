@@ -1,0 +1,459 @@
+[
+    {
+        "text": "A friend sends you a link to a funny video. Do you:",
+        "left": {
+            "choice": "Watch it immediately!",
+            "consequence": "The video is hilarious! But it auto-played another video with a loud ad.",
+            "privacy": -10,
+            "security": -2,
+            "reputation": 1,
+            "finance": 0
+        },
+        "right": {
+            "choice": "Check the link first for safety.",
+            "consequence": "The link seems safe. You enjoy the video without any surprises!",
+            "privacy": 0,
+            "security": 2,
+            "reputation": 0,
+            "finance": 0
+        }
+    },
+    {
+        "text": "You see a social media post about a free giveaway. Do you:",
+        "left": {
+            "choice": "Enter immediately! It's free!",
+            "consequence": "You won! ...But the prize requires you to share a lot of personal information.",
+            "privacy": -3,
+            "security": 0,
+            "reputation": 1,
+            "finance": -1
+        },
+        "right": {
+            "choice": "Research the company behind the giveaway first.",
+            "consequence": "It turns out it's a scam! You saved yourself from potential trouble.",
+            "privacy": 0,
+            "security": 2,
+            "reputation": 0,
+            "finance": 0
+        }
+    },
+    {
+        "text": "Your antivirus software prompts you to update. Do you:",
+        "left": {
+            "choice": "Postpone it for later.",
+            "consequence": "You forgot all about it. Your computer is now vulnerable to the latest threats.",
+            "privacy": 0,
+            "security": -4,
+            "reputation": 0,
+            "finance": 0
+        },
+        "right": {
+            "choice": "Update immediately.",
+            "consequence": "Your device is now protected against the latest threats. Good job!",
+            "privacy": 0,
+            "security": 3,
+            "reputation": 0,
+            "finance": 0
+        }
+    },
+    {
+        "text": "You need to create a new password. Do you:",
+        "left": {
+            "choice": "Use an easy-to-remember password.",
+            "consequence": "Your account got hacked! It's time for a stronger password.",
+            "privacy": -4,
+            "security": -5,
+            "reputation": -2,
+            "finance": -3
+        },
+        "right": {
+            "choice": "Use a strong, unique password.",
+            "consequence": "Your account is much safer now. It might be hard to remember, though.",
+            "privacy": 0,
+            "security": 5,
+            "reputation": 0,
+            "finance": 0
+        }
+    },
+    {
+        "text": "You get a text message about a suspicious charge on your credit card. Do you:",
+        "left": {
+            "choice": "Click the link in the text to resolve it.",
+            "consequence": "Oops! That was a phishing scam. You just gave away your card info.",
+            "privacy": -5,
+            "security": -5,
+            "reputation": 0,
+            "finance": -10
+        },
+        "right": {
+            "choice": "Call your bank directly to verify.",
+            "consequence": "It was indeed a fraudulent charge! Your quick action saved the day.",
+            "privacy": 0,
+            "security": 3,
+            "reputation": 1,
+            "finance": 5
+        }
+    },
+    {
+        "text": "A friend sends you a link to a funny video. Do you:",
+        "left": {
+            "choice": "Watch it immediately!",
+            "consequence": "The video is hilarious! But it auto-played another video with a loud ad.",
+            "privacy": -10,
+            "security": -2,
+            "reputation": 1,
+            "finance": 0
+        },
+        "right": {
+            "choice": "Check the link first for safety.",
+            "consequence": "The link seems safe. You enjoy the video without any surprises!",
+            "privacy": 0,
+            "security": 2,
+            "reputation": 0,
+            "finance": 0
+        }
+    },{
+        "text": "A friend sends you a link to a funny video. Do you:",
+        "left": {
+            "choice": "Watch it immediately!",
+            "consequence": "The video is hilarious! But it auto-played another video with a loud ad.",
+            "privacy": -10,
+            "security": -2,
+            "reputation": 1,
+            "finance": 0
+        },
+        "right": {
+            "choice": "Check the link first for safety.",
+            "consequence": "The link seems safe. You enjoy the video without any surprises!",
+            "privacy": 0,
+            "security": 2,
+            "reputation": 0,
+            "finance": 0
+        }
+    },{
+        "text": "A friend sends you a link to a funny video. Do you:",
+        "left": {
+            "choice": "Watch it immediately!",
+            "consequence": "The video is hilarious! But it auto-played another video with a loud ad.",
+            "privacy": -10,
+            "security": -2,
+            "reputation": 1,
+            "finance": 0
+        },
+        "right": {
+            "choice": "Check the link first for safety.",
+            "consequence": "The link seems safe. You enjoy the video without any surprises!",
+            "privacy": 0,
+            "security": 2,
+            "reputation": 0,
+            "finance": 0
+        }
+    },{
+        "text": "A friend sends you a link to a funny video. Do you:",
+        "left": {
+            "choice": "Watch it immediately!",
+            "consequence": "The video is hilarious! But it auto-played another video with a loud ad.",
+            "privacy": -10,
+            "security": -2,
+            "reputation": 1,
+            "finance": 0
+        },
+        "right": {
+            "choice": "Check the link first for safety.",
+            "consequence": "The link seems safe. You enjoy the video without any surprises!",
+            "privacy": 0,
+            "security": 2,
+            "reputation": 0,
+            "finance": 0
+        }
+    },{
+        "text": "A friend sends you a link to a funny video. Do you:",
+        "left": {
+            "choice": "Watch it immediately!",
+            "consequence": "The video is hilarious! But it auto-played another video with a loud ad.",
+            "privacy": -10,
+            "security": -2,
+            "reputation": 1,
+            "finance": 0
+        },
+        "right": {
+            "choice": "Check the link first for safety.",
+            "consequence": "The link seems safe. You enjoy the video without any surprises!",
+            "privacy": 0,
+            "security": 2,
+            "reputation": 0,
+            "finance": 0
+        }
+    },{
+        "text": "A friend sends you a link to a funny video. Do you:",
+        "left": {
+            "choice": "Watch it immediately!",
+            "consequence": "The video is hilarious! But it auto-played another video with a loud ad.",
+            "privacy": -10,
+            "security": -2,
+            "reputation": 1,
+            "finance": 0
+        },
+        "right": {
+            "choice": "Check the link first for safety.",
+            "consequence": "The link seems safe. You enjoy the video without any surprises!",
+            "privacy": 0,
+            "security": 2,
+            "reputation": 0,
+            "finance": 0
+        }
+    },{
+        "text": "A friend sends you a link to a funny video. Do you:",
+        "left": {
+            "choice": "Watch it immediately!",
+            "consequence": "The video is hilarious! But it auto-played another video with a loud ad.",
+            "privacy": -10,
+            "security": -2,
+            "reputation": 1,
+            "finance": 0
+        },
+        "right": {
+            "choice": "Check the link first for safety.",
+            "consequence": "The link seems safe. You enjoy the video without any surprises!",
+            "privacy": 0,
+            "security": 2,
+            "reputation": 0,
+            "finance": 0
+        }
+    },{
+        "text": "A friend sends you a link to a funny video. Do you:",
+        "left": {
+            "choice": "Watch it immediately!",
+            "consequence": "The video is hilarious! But it auto-played another video with a loud ad.",
+            "privacy": -10,
+            "security": -2,
+            "reputation": 1,
+            "finance": 0
+        },
+        "right": {
+            "choice": "Check the link first for safety.",
+            "consequence": "The link seems safe. You enjoy the video without any surprises!",
+            "privacy": 0,
+            "security": 2,
+            "reputation": 0,
+            "finance": 0
+        }
+    },{
+        "text": "A friend sends you a link to a funny video. Do you:",
+        "left": {
+            "choice": "Watch it immediately!",
+            "consequence": "The video is hilarious! But it auto-played another video with a loud ad.",
+            "privacy": -10,
+            "security": -2,
+            "reputation": 1,
+            "finance": 0
+        },
+        "right": {
+            "choice": "Check the link first for safety.",
+            "consequence": "The link seems safe. You enjoy the video without any surprises!",
+            "privacy": 0,
+            "security": 2,
+            "reputation": 0,
+            "finance": 0
+        }
+    },{
+        "text": "A friend sends you a link to a funny video. Do you:",
+        "left": {
+            "choice": "Watch it immediately!",
+            "consequence": "The video is hilarious! But it auto-played another video with a loud ad.",
+            "privacy": -10,
+            "security": -2,
+            "reputation": 1,
+            "finance": 0
+        },
+        "right": {
+            "choice": "Check the link first for safety.",
+            "consequence": "The link seems safe. You enjoy the video without any surprises!",
+            "privacy": 0,
+            "security": 2,
+            "reputation": 0,
+            "finance": 0
+        }
+    },{
+        "text": "A friend sends you a link to a funny video. Do you:",
+        "left": {
+            "choice": "Watch it immediately!",
+            "consequence": "The video is hilarious! But it auto-played another video with a loud ad.",
+            "privacy": -10,
+            "security": -2,
+            "reputation": 1,
+            "finance": 0
+        },
+        "right": {
+            "choice": "Check the link first for safety.",
+            "consequence": "The link seems safe. You enjoy the video without any surprises!",
+            "privacy": 0,
+            "security": 2,
+            "reputation": 0,
+            "finance": 0
+        }
+    },{
+        "text": "A friend sends you a link to a funny video. Do you:",
+        "left": {
+            "choice": "Watch it immediately!",
+            "consequence": "The video is hilarious! But it auto-played another video with a loud ad.",
+            "privacy": -10,
+            "security": -2,
+            "reputation": 1,
+            "finance": 0
+        },
+        "right": {
+            "choice": "Check the link first for safety.",
+            "consequence": "The link seems safe. You enjoy the video without any surprises!",
+            "privacy": 0,
+            "security": 2,
+            "reputation": 0,
+            "finance": 0
+        }
+    },{
+        "text": "A friend sends you a link to a funny video. Do you:",
+        "left": {
+            "choice": "Watch it immediately!",
+            "consequence": "The video is hilarious! But it auto-played another video with a loud ad.",
+            "privacy": -10,
+            "security": -2,
+            "reputation": 1,
+            "finance": 0
+        },
+        "right": {
+            "choice": "Check the link first for safety.",
+            "consequence": "The link seems safe. You enjoy the video without any surprises!",
+            "privacy": 0,
+            "security": 2,
+            "reputation": 0,
+            "finance": 0
+        }
+    },{
+        "text": "A friend sends you a link to a funny video. Do you:",
+        "left": {
+            "choice": "Watch it immediately!",
+            "consequence": "The video is hilarious! But it auto-played another video with a loud ad.",
+            "privacy": -10,
+            "security": -2,
+            "reputation": 1,
+            "finance": 0
+        },
+        "right": {
+            "choice": "Check the link first for safety.",
+            "consequence": "The link seems safe. You enjoy the video without any surprises!",
+            "privacy": 0,
+            "security": 2,
+            "reputation": 0,
+            "finance": 0
+        }
+    },{
+        "text": "A friend sends you a link to a funny video. Do you:",
+        "left": {
+            "choice": "Watch it immediately!",
+            "consequence": "The video is hilarious! But it auto-played another video with a loud ad.",
+            "privacy": -10,
+            "security": -2,
+            "reputation": 1,
+            "finance": 0
+        },
+        "right": {
+            "choice": "Check the link first for safety.",
+            "consequence": "The link seems safe. You enjoy the video without any surprises!",
+            "privacy": 0,
+            "security": 2,
+            "reputation": 0,
+            "finance": 0
+        }
+    },{
+        "text": "A friend sends you a link to a funny video. Do you:",
+        "left": {
+            "choice": "Watch it immediately!",
+            "consequence": "The video is hilarious! But it auto-played another video with a loud ad.",
+            "privacy": -10,
+            "security": -2,
+            "reputation": 1,
+            "finance": 0
+        },
+        "right": {
+            "choice": "Check the link first for safety.",
+            "consequence": "The link seems safe. You enjoy the video without any surprises!",
+            "privacy": 0,
+            "security": 2,
+            "reputation": 0,
+            "finance": 0
+        }
+    },{
+        "text": "A friend sends you a link to a funny video. Do you:",
+        "left": {
+            "choice": "Watch it immediately!",
+            "consequence": "The video is hilarious! But it auto-played another video with a loud ad.",
+            "privacy": -10,
+            "security": -2,
+            "reputation": 1,
+            "finance": 0
+        },
+        "right": {
+            "choice": "Check the link first for safety.",
+            "consequence": "The link seems safe. You enjoy the video without any surprises!",
+            "privacy": 0,
+            "security": 2,
+            "reputation": 0,
+            "finance": 0
+        }
+    },{
+        "text": "A friend sends you a link to a funny video. Do you:",
+        "left": {
+            "choice": "Watch it immediately!",
+            "consequence": "The video is hilarious! But it auto-played another video with a loud ad.",
+            "privacy": -10,
+            "security": -2,
+            "reputation": 1,
+            "finance": 0
+        },
+        "right": {
+            "choice": "Check the link first for safety.",
+            "consequence": "The link seems safe. You enjoy the video without any surprises!",
+            "privacy": 0,
+            "security": 2,
+            "reputation": 0,
+            "finance": 0
+        }
+    },{
+        "text": "A friend sends you a link to a funny video. Do you:",
+        "left": {
+            "choice": "Watch it immediately!",
+            "consequence": "The video is hilarious! But it auto-played another video with a loud ad.",
+            "privacy": -10,
+            "security": -2,
+            "reputation": 1,
+            "finance": 0
+        },
+        "right": {
+            "choice": "Check the link first for safety.",
+            "consequence": "The link seems safe. You enjoy the video without any surprises!",
+            "privacy": 0,
+            "security": 2,
+            "reputation": 0,
+            "finance": 0
+        }
+    },{
+        "text": "A friend sends you a link to a funny video. Do you:",
+        "left": {
+            "choice": "Watch it immediately!",
+            "consequence": "The video is hilarious! But it auto-played another video with a loud ad.",
+            "privacy": -10,
+            "security": -2,
+            "reputation": 1,
+            "finance": 0
+        },
+        "right": {
+            "choice": "Check the link first for safety.",
+            "consequence": "The link seems safe. You enjoy the video without any surprises!",
+            "privacy": 0,
+            "security": 2,
+            "reputation": 0,
+            "finance": 0
+        }
+    }
+    
+]
